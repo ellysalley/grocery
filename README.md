@@ -1,3 +1,3 @@
 # Grocery dictionary
 
-- Korean / English groceries dictionary app
+Korean / English grocery dictionary app
